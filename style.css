@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+
+#left-column{
+    background-color: coral;
+    width: 50%;
+    float: left;
+}
+
+#right-column img{
+    width: 255px;
+    background: none;
+    margin-left: 150px;
+    margin-top: 150px;
+}
+
